@@ -1,6 +1,7 @@
 ---
 name: vinted-listing
 description: Create, edit, and safely publish Vinted listings through the signed-in browser, using verified item details and the owner’s original photos.
+license: MIT
 ---
 
 # Vinted Listing

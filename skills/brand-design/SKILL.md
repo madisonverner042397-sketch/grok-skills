@@ -1,6 +1,7 @@
 ---
 name: brand-design
 description: "Design and review polished UI/UX using John's house playbook. Use for app or web screens, dashboards, layouts, components, typography, color, spacing, dark mode, motion, mobile patterns, or generic-looking UI."
+license: MIT
 ---
 
 # Kole Design Tips

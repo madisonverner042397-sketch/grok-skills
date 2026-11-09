@@ -1,6 +1,7 @@
 ---
 name: drafty-proof-canvas
 description: "Publish visual verification screenshots to a private Drafty canvas. Use at the end of UI, layout, component, email-render, chart, or design work that John must inspect; skip text-only changes."
+license: MIT
 ---
 
 # Proof canvas

@@ -1,6 +1,7 @@
 ---
 name: garmin-watchface
 description: Build, test, screenshot and publish Garmin Connect IQ watch faces in Monkey C. Use when working on a Connect IQ watch face or app - creating one, fixing layout that clips or overlaps, capturing simulator screenshots, adding app settings, widening device support, or preparing a Connect IQ Store submission. Encodes the traps that silently produce a passing build and a broken face.
+license: MIT
 ---
 
 # Garmin Connect IQ watch faces

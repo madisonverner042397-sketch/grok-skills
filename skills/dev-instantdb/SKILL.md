@@ -1,6 +1,7 @@
 ---
 name: dev-instantdb
 description: "Build React, JavaScript, or Expo apps with InstantDB as the realtime backend. Use when InstantDB is chosen for a realtime, collaborative, multiplayer, or local-first prototype."
+license: MIT
 ---
 
 Act as a world-class senior frontend engineer with deep expertise in InstantDB

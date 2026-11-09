@@ -1,6 +1,7 @@
 ---
 name: comms-whatsapp
 description: "Read and send WhatsApp messages with wacli. Use to search messages, list chats, groups, or contacts, fetch threads or media, or send WhatsApp messages."
+license: MIT
 ---
 
 # wacli — WhatsApp from the CLI

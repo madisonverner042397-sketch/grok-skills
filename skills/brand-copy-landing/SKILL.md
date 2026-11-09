@@ -1,6 +1,7 @@
 ---
 name: brand-copy-landing
 description: "Write conversion-focused landing and sales copy using the boring-marketer framework. Use for heroes, headlines, features, testimonials, pain framing, VoC, or requests to make marketing copy convert."
+license: MIT
 ---
 
 # Boring Marketer Copy

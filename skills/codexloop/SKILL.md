@@ -10,6 +10,7 @@ compatibility: GitHub only (Codex code review is a GitHub app). Requires git + g
 metadata:
   version: "1.0"
 allowed-tools: Bash(gh:*) Bash(git:*)
+license: MIT
 ---
 
 # Codexloop

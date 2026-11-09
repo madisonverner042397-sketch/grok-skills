@@ -1,6 +1,7 @@
 ---
 name: media-image-gen
 description: "Generate or edit visual assets with OpenAI GPT Image, including logos, illustrations, ads, infographics, mockups, and photoreal images. Use for image generation, moodboards, reference-image work, or style transfer."
+license: MIT
 ---
 
 # media-image-gen

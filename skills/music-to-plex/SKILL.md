@@ -7,6 +7,7 @@ metadata:
   hermes:
     tags: [music, plex, flac, nas, synology, album, playlist, plexamp]
     related_skills: [plex-music-ingest, music-library-publishing, music-note-curation, podcast-monitoring]
+license: MIT
 ---
 
 # Music to Plex

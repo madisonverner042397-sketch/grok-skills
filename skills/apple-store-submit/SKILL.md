@@ -1,6 +1,6 @@
 ---
 name: apple-store-submit
-description: Handle Apple App Store rejection emails end-to-end: parse rejection reasons, create a fix plan, implement code changes (privacy strings, entitlements, sandbox), navigate App Store Connect to update metadata, and resubmit. Use when an app receives a rejection or when preparing a first-time submission.
+description: "Handle Apple App Store rejection emails end-to-end: parse rejection reasons, create a fix plan, implement code changes (privacy strings, entitlements, sandbox), navigate App Store Connect to update metadata, and resubmit. Use when an app receives a rejection or when preparing a first-time submission."
 license: MIT
 allowed-tools: Bash, Read, Write, Edit
 compatibility: Codex, Claude Code, Cursor, GitHub Copilot, Windsurf, Kiro, and other Agent Skills compatible tools. Requires Xcode, an Apple Developer account, and App Store Connect access.

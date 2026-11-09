@@ -11,6 +11,7 @@ compatibility: Requires git and gh authenticated. Review-bot sweeps only cover b
 metadata:
   version: "1.0"
 allowed-tools: Bash(gh:*) Bash(git:*)
+license: MIT
 ---
 
 # PR Finalize Complete

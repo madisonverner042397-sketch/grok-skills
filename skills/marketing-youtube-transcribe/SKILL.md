@@ -1,6 +1,7 @@
 ---
 name: marketing-youtube-transcribe
 description: "Transcribe YouTube videos using captions first and Gemini audio fallback. Use for YouTube URLs or requests to fetch captions, get a transcript, transcribe, fact-check, or research a video."
+license: MIT
 ---
 
 # YouTube Transcribe

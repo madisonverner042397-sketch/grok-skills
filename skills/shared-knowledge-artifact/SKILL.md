@@ -3,7 +3,7 @@ name: shared-knowledge-artifact
 description: Build a shared, self-persisting knowledge ledger as a Claude Artifact, a private page that stores its own data, renders itself from that data, and saves new versions of itself, so several agents can read the same lessons before starting work and append to them afterwards. Use when the user wants agents to learn from each other, asks for a shared knowledge base, lessons-learned log, gotcha ledger, or cross-agent memory page they can hand to other sessions.
 license: MIT
 allowed-tools: Bash, Read, Write, Edit, Grep, Glob, Skill, Artifact
-compatibility: Claude Code only, requires the Artifact tool and the artifact runtime capabilities (`capabilities: {artifact: {}}`).
+compatibility: "Claude Code only, requires the Artifact tool and the artifact runtime capabilities (`capabilities: {artifact: {}}`)."
 metadata:
   author: Oleg Koval
   package: shared-knowledge-artifact

@@ -11,6 +11,7 @@ compatibility: Requires git and gh (GitHub CLI) authenticated, with the CodeRabb
 metadata:
   version: "1.0"
 allowed-tools: Bash(gh:*) Bash(git:*)
+license: MIT
 ---
 
 # Coderabbitloop

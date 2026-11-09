@@ -12,6 +12,7 @@ compatibility: Requires git and gh (GitHub CLI) authenticated. Review-bot sweeps
 metadata:
   version: "1.0"
 allowed-tools: Bash(gh:*) Bash(git:*)
+license: MIT
 ---
 
 # PR Finalize

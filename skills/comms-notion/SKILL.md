@@ -1,6 +1,7 @@
 ---
 name: comms-notion
 description: "Read a Notion page from its URL or ID and return its title, metadata, and body. Use for Notion links or requests to read, summarize, fetch, or extract a Notion document."
+license: MIT
 ---
 
 # Notion Page

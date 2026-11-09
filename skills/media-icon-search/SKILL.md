@@ -1,6 +1,7 @@
 ---
 name: media-icon-search
 description: "Find valid installed React icons across Lucide, Phosphor, Tabler, Heroicons, HugeIcons, and related sets. Use for icon selection, natural-language icon searches, paste-ready imports, or contact-sheet previews."
+license: MIT
 ---
 
 # media-icon-search

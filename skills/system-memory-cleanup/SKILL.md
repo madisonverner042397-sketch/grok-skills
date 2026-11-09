@@ -1,6 +1,7 @@
 ---
 name: system-memory-cleanup
 description: "Inspect and clean macOS CPU and memory usage. Use for a slow Mac, resource hogs, orphaned processes, high CPU, memory pressure, or process cleanup."
+license: MIT
 ---
 
 # System Cleanup

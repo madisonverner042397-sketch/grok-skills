@@ -10,6 +10,7 @@ compatibility: GitHub only (Gemini Code Assist is a GitHub app). Requires git + 
 metadata:
   version: "1.0"
 allowed-tools: Bash(gh:*) Bash(git:*)
+license: MIT
 ---
 
 # Geminiloop

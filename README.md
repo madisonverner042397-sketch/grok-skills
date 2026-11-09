@@ -84,7 +84,9 @@ The full list is below. Prefer the [website](https://grokbotskills.vercel.app) i
 1. Copy `skills/0-template` (or any nearby skill) to `skills/<kebab-name>`.
 2. Fill in YAML frontmatter: `name`, `description`, `license`.
 3. Write the playbook in `SKILL.md`. Keep it concrete. Tell the agent when to use it and what to do.
-4. Open a pull request.
+4. Add the skill to the catalog table below.
+5. Run `python3 scripts/check_frontmatter.py` (needs PyYAML). CI runs the same check on every pull request.
+6. Open a pull request.
 
 A skill should be one job, not a dump of notes.
 

@@ -1,6 +1,7 @@
 ---
 name: media-video-gen
 description: "Generate text-to-video or image-to-video clips with Google Veo, with explicit cost quotes and web-ready outputs. Use for cinematic clips, hero videos, loops, background video, or animating a still."
+license: MIT
 ---
 
 # media-video-gen

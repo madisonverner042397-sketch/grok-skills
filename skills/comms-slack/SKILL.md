@@ -1,6 +1,7 @@
 ---
 name: comms-slack
 description: "Search Slack messages, people, channels, DMs, and threads using John's personal token. Use for Slack permalinks or requests to find a conversation, colleague, message, channel, or thread."
+license: MIT
 ---
 
 # comms-slack

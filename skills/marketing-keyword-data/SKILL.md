@@ -1,6 +1,7 @@
 ---
 name: marketing-keyword-data
 description: "Research keywords with DataForSEO, including volume, intent, difficulty, CPC, and suggestions. Use for SEO research, content planning, long-tail ideas, search intent, or keyword opportunities; supports dry-run cost previews."
+license: MIT
 ---
 
 # Keyword Data (DataForSEO)

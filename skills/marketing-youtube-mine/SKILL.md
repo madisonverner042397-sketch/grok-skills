@@ -1,6 +1,7 @@
 ---
 name: marketing-youtube-mine
 description: "Mine YouTube videos and comments for unanswered questions using yt-dlp. Use for channel or query research, recent uploads, comment extraction, question clustering, or YouTube content gaps."
+license: MIT
 ---
 
 # marketing-youtube-mine

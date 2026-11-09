@@ -1,6 +1,7 @@
 ---
 name: marketing-reddit
 description: "Mine Reddit posts, threads, comments, and question clusters through a bot-challenge-resistant browser. Use for subreddit research, content gaps, unanswered questions, post data, or Reddit 403 blocks."
+license: MIT
 ---
 
 # marketing-reddit

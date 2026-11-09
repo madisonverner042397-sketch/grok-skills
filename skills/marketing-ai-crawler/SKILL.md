@@ -1,6 +1,7 @@
 ---
 name: marketing-ai-crawler
 description: "Report which AI bots crawl Vercel-hosted sites and which paths they hit. Use for GPTBot, ClaudeBot, PerplexityBot, AI crawler traffic, user-agent logs, or per-site crawler reports."
+license: MIT
 ---
 
 # AI Crawler Report (Vercel)

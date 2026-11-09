@@ -1,6 +1,7 @@
 ---
 name: marketing-serp
 description: "Analyze geo-targeted Google SERPs with DataForSEO, including rankings, competitors, snippets, PAA, and content gaps. Use for who-ranks queries, SERP analysis, ranking domains, or search-result research; supports dry-run costs."
+license: MIT
 ---
 
 # SERP Data (DataForSEO)

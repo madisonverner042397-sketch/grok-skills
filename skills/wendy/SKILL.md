@@ -1,6 +1,7 @@
 ---
 name: wendy
 description: "Coach execution using Wendy's Strategist-versus-Performer framework. Use when John is stuck, avoiding, overthinking, procrastinating, fake-progressing, prioritizing projects, or explicitly asks Wendy for coaching."
+license: MIT
 ---
 
 # Wendy

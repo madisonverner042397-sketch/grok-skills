@@ -1,6 +1,7 @@
 ---
 name: data-digest
 description: "Build a per-project digest of signups, product activity, API costs, initiative changes, git activity, and monitoring. Use for morning, daily, yesterday, or recurring cross-project roundups."
+license: MIT
 ---
 
 # data-digest

@@ -1,6 +1,7 @@
 ---
 name: marketing-x
 description: "Monitor X profiles, archive new posts, and produce digests. Use to subscribe to handles, poll timelines, query the archive, run X-monitor, configure recurring X digests, or install monitoring on a Mac."
+license: MIT
 ---
 
 # marketing-x

@@ -1,6 +1,7 @@
 ---
 name: system-disk-cleanup
 description: "Inspect and clean macOS disk usage. Use for low storage, disk-full problems, finding storage hogs, checking free space, or safely freeing space."
+license: MIT
 ---
 
 # Disk Cleanup for macOS

@@ -1,6 +1,7 @@
 ---
 name: marketing-aeo
 description: "Track brand and domain citations in ChatGPT, Perplexity, Google AI Overview, and Claude. Use for AEO/GEO monitoring, AI-search visibility, chatbot mentions, citation queries, or project-level AI answer tracking."
+license: MIT
 ---
 
 # AEO Monitor

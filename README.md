@@ -1,6 +1,6 @@
 # grok-skills
 
-**198 `SKILL.md` playbooks for [Grok Bot](https://docs.x.ai/grok-bot/overview).** Browse them on the website, or install the whole catalog from this repo.
+**223 `SKILL.md` playbooks for [Grok Bot](https://docs.x.ai/grok-bot/overview).** Browse them on the website, or install the whole catalog from this repo.
 
 <p>
   <a href="https://grokbotskills.vercel.app"><strong>Website → grokbotskills.vercel.app</strong></a>
@@ -11,7 +11,7 @@
 </p>
 
 [![Website](https://img.shields.io/badge/website-grokbotskills.vercel.app-111111)](https://grokbotskills.vercel.app)
-[![Skills](https://img.shields.io/badge/skills-198-111111)](https://grokbotskills.vercel.app)
+[![Skills](https://img.shields.io/badge/skills-223-111111)](https://grokbotskills.vercel.app)
 [![License](https://img.shields.io/badge/license-MIT-111111)](LICENSE)
 
 We write the skills. Grok Bot is xAI's product. This catalog is not affiliated with xAI.
@@ -63,7 +63,7 @@ grok-skills/
     ├── code-reviewer/SKILL.md
     ├── dockerfile-pro/SKILL.md
     ├── pr-description-writer/SKILL.md
-    └── …198 skills
+    └── …223 skills
 ```
 
 This repo is skills only. No website source. The site is a separate catalog that points here.
@@ -98,7 +98,7 @@ Not affiliated with xAI.
 
 ## Catalog
 
-198 skills. Name links to the website. Folder links to the file in this repo.
+223 skills. Name links to the website. Folder links to the file in this repo.
 
 | Skill | Folder |
 | --- | --- |
@@ -109,10 +109,12 @@ Not affiliated with xAI.
 | [Adr Author](https://grokbotskills.vercel.app/skills/adr-author) | [`adr-author`](skills/adr-author/SKILL.md) |
 | [Ai Tools Setup](https://grokbotskills.vercel.app/skills/ai-tools-setup) | [`ai-tools-setup`](skills/ai-tools-setup/SKILL.md) |
 | [Algorithmic Art](https://grokbotskills.vercel.app/skills/algorithmic-art) | [`algorithmic-art`](skills/algorithmic-art/SKILL.md) |
+| [Analytics Agent](https://grokbotskills.vercel.app/skills/analytics-agent) | [`analytics-agent`](skills/analytics-agent/SKILL.md) |
 | [Api And Interface Design](https://grokbotskills.vercel.app/skills/api-and-interface-design) | [`api-and-interface-design`](skills/api-and-interface-design/SKILL.md) |
 | [Api Designer](https://grokbotskills.vercel.app/skills/api-designer) | [`api-designer`](skills/api-designer/SKILL.md) |
 | [Api Docs Writer](https://grokbotskills.vercel.app/skills/api-docs-writer) | [`api-docs-writer`](skills/api-docs-writer/SKILL.md) |
 | [Apple Store Submit](https://grokbotskills.vercel.app/skills/apple-store-submit) | [`apple-store-submit`](skills/apple-store-submit/SKILL.md) |
+| [Automation Agent](https://grokbotskills.vercel.app/skills/automation-agent) | [`automation-agent`](skills/automation-agent/SKILL.md) |
 | [Aws Cost Optimizer](https://grokbotskills.vercel.app/skills/aws-cost-optimizer) | [`aws-cost-optimizer`](skills/aws-cost-optimizer/SKILL.md) |
 | [Bash Script Hardening](https://grokbotskills.vercel.app/skills/bash-script-hardening) | [`bash-script-hardening`](skills/bash-script-hardening/SKILL.md) |
 | [Blog Post Writer](https://grokbotskills.vercel.app/skills/blog-post-writer) | [`blog-post-writer`](skills/blog-post-writer/SKILL.md) |
@@ -132,6 +134,7 @@ Not affiliated with xAI.
 | [Claude Api](https://grokbotskills.vercel.app/skills/claude-api) | [`claude-api`](skills/claude-api/SKILL.md) |
 | [Cloudflare Block Countries](https://grokbotskills.vercel.app/skills/cloudflare-block-countries) | [`cloudflare-block-countries`](skills/cloudflare-block-countries/SKILL.md) |
 | [Code Review And Quality](https://grokbotskills.vercel.app/skills/code-review-and-quality) | [`code-review-and-quality`](skills/code-review-and-quality/SKILL.md) |
+| [Code Review Team Agent](https://grokbotskills.vercel.app/skills/code-review-team-agent) | [`code-review-team-agent`](skills/code-review-team-agent/SKILL.md) |
 | [Code Reviewer](https://grokbotskills.vercel.app/skills/code-reviewer) | [`code-reviewer`](skills/code-reviewer/SKILL.md) |
 | [Code Simplification](https://grokbotskills.vercel.app/skills/code-simplification) | [`code-simplification`](skills/code-simplification/SKILL.md) |
 | [Coderabbitloop](https://grokbotskills.vercel.app/skills/coderabbitloop) | [`coderabbitloop`](skills/coderabbitloop/SKILL.md) |
@@ -142,20 +145,26 @@ Not affiliated with xAI.
 | [Competitive Analysis](https://grokbotskills.vercel.app/skills/competitive-analysis) | [`competitive-analysis`](skills/competitive-analysis/SKILL.md) |
 | [Concept Explainer](https://grokbotskills.vercel.app/skills/concept-explainer) | [`concept-explainer`](skills/concept-explainer/SKILL.md) |
 | [Constraint Driven Development](https://grokbotskills.vercel.app/skills/constraint-driven-development) | [`constraint-driven-development`](skills/constraint-driven-development/SKILL.md) |
+| [Content Generation Agent](https://grokbotskills.vercel.app/skills/content-generation-agent) | [`content-generation-agent`](skills/content-generation-agent/SKILL.md) |
 | [Context Engineering](https://grokbotskills.vercel.app/skills/context-engineering) | [`context-engineering`](skills/context-engineering/SKILL.md) |
 | [Context Repo](https://grokbotskills.vercel.app/skills/context-repo) | [`context-repo`](skills/context-repo/SKILL.md) |
 | [Cover Letter Writer](https://grokbotskills.vercel.app/skills/cover-letter-writer) | [`cover-letter-writer`](skills/cover-letter-writer/SKILL.md) |
 | [Crash Course](https://grokbotskills.vercel.app/skills/crash-course) | [`crash-course`](skills/crash-course/SKILL.md) |
 | [Cron Scheduler](https://grokbotskills.vercel.app/skills/cron-scheduler) | [`cron-scheduler`](skills/cron-scheduler/SKILL.md) |
+| [Crypto Market Data Apis](https://grokbotskills.vercel.app/skills/crypto-market-data-apis) | [`crypto-market-data-apis`](skills/crypto-market-data-apis/SKILL.md) |
+| [Crypto Web3 Agent](https://grokbotskills.vercel.app/skills/crypto-web3-agent) | [`crypto-web3-agent`](skills/crypto-web3-agent/SKILL.md) |
 | [Data Digest](https://grokbotskills.vercel.app/skills/data-digest) | [`data-digest`](skills/data-digest/SKILL.md) |
 | [Data Pipeline Architect](https://grokbotskills.vercel.app/skills/data-pipeline-architect) | [`data-pipeline-architect`](skills/data-pipeline-architect/SKILL.md) |
+| [Data Science Agent](https://grokbotskills.vercel.app/skills/data-science-agent) | [`data-science-agent`](skills/data-science-agent/SKILL.md) |
 | [Debug Detective](https://grokbotskills.vercel.app/skills/debug-detective) | [`debug-detective`](skills/debug-detective/SKILL.md) |
 | [Debugging And Error Recovery](https://grokbotskills.vercel.app/skills/debugging-and-error-recovery) | [`debugging-and-error-recovery`](skills/debugging-and-error-recovery/SKILL.md) |
 | [Decision Matrix](https://grokbotskills.vercel.app/skills/decision-matrix) | [`decision-matrix`](skills/decision-matrix/SKILL.md) |
 | [Dependabot Triage](https://grokbotskills.vercel.app/skills/dependabot-triage) | [`dependabot-triage`](skills/dependabot-triage/SKILL.md) |
 | [Dependency Upgrader](https://grokbotskills.vercel.app/skills/dependency-upgrader) | [`dependency-upgrader`](skills/dependency-upgrader/SKILL.md) |
 | [Deprecation And Migration](https://grokbotskills.vercel.app/skills/deprecation-and-migration) | [`deprecation-and-migration`](skills/deprecation-and-migration/SKILL.md) |
+| [Design Agent](https://grokbotskills.vercel.app/skills/design-agent) | [`design-agent`](skills/design-agent/SKILL.md) |
 | [Dev Instantdb](https://grokbotskills.vercel.app/skills/dev-instantdb) | [`dev-instantdb`](skills/dev-instantdb/SKILL.md) |
+| [Devops Agent](https://grokbotskills.vercel.app/skills/devops-agent) | [`devops-agent`](skills/devops-agent/SKILL.md) |
 | [Discernment Nudge](https://grokbotskills.vercel.app/skills/discernment-nudge) | [`discernment-nudge`](skills/discernment-nudge/SKILL.md) |
 | [Doc Coauthoring](https://grokbotskills.vercel.app/skills/doc-coauthoring) | [`doc-coauthoring`](skills/doc-coauthoring/SKILL.md) |
 | [Dockerfile Pro](https://grokbotskills.vercel.app/skills/dockerfile-pro) | [`dockerfile-pro`](skills/dockerfile-pro/SKILL.md) |
@@ -164,10 +173,14 @@ Not affiliated with xAI.
 | [Docx](https://grokbotskills.vercel.app/skills/docx) | [`docx`](skills/docx/SKILL.md) |
 | [Doubt Driven Development](https://grokbotskills.vercel.app/skills/doubt-driven-development) | [`doubt-driven-development`](skills/doubt-driven-development/SKILL.md) |
 | [Drafty Proof Canvas](https://grokbotskills.vercel.app/skills/drafty-proof-canvas) | [`drafty-proof-canvas`](skills/drafty-proof-canvas/SKILL.md) |
+| [Ecommerce Automation Agent](https://grokbotskills.vercel.app/skills/ecommerce-automation-agent) | [`ecommerce-automation-agent`](skills/ecommerce-automation-agent/SKILL.md) |
+| [Education Learning Agent](https://grokbotskills.vercel.app/skills/education-learning-agent) | [`education-learning-agent`](skills/education-learning-agent/SKILL.md) |
 | [Efficient Code](https://grokbotskills.vercel.app/skills/efficient-code) | [`efficient-code`](skills/efficient-code/SKILL.md) |
 | [Email Composer](https://grokbotskills.vercel.app/skills/email-composer) | [`email-composer`](skills/email-composer/SKILL.md) |
 | [Error Handling Patterns](https://grokbotskills.vercel.app/skills/error-handling-patterns) | [`error-handling-patterns`](skills/error-handling-patterns/SKILL.md) |
 | [Event Planner](https://grokbotskills.vercel.app/skills/event-planner) | [`event-planner`](skills/event-planner/SKILL.md) |
+| [Expo React Native](https://grokbotskills.vercel.app/skills/expo-react-native) | [`expo-react-native`](skills/expo-react-native/SKILL.md) |
+| [Fastapi Best Practices](https://grokbotskills.vercel.app/skills/fastapi-best-practices) | [`fastapi-best-practices`](skills/fastapi-best-practices/SKILL.md) |
 | [Fill Music Player](https://grokbotskills.vercel.app/skills/fill-music-player) | [`fill-music-player`](skills/fill-music-player/SKILL.md) |
 | [Firecrawl](https://grokbotskills.vercel.app/skills/firecrawl) | [`firecrawl`](skills/firecrawl/SKILL.md) |
 | [Flashcard Generator](https://grokbotskills.vercel.app/skills/flashcard-generator) | [`flashcard-generator`](skills/flashcard-generator/SKILL.md) |
@@ -184,6 +197,8 @@ Not affiliated with xAI.
 | [Git Workflow And Versioning](https://grokbotskills.vercel.app/skills/git-workflow-and-versioning) | [`git-workflow-and-versioning`](skills/git-workflow-and-versioning/SKILL.md) |
 | [Github Actions Builder](https://grokbotskills.vercel.app/skills/github-actions-builder) | [`github-actions-builder`](skills/github-actions-builder/SKILL.md) |
 | [Go Dependency Direction](https://grokbotskills.vercel.app/skills/go-dependency-direction) | [`go-dependency-direction`](skills/go-dependency-direction/SKILL.md) |
+| [Grok Skill Template](https://grokbotskills.vercel.app/skills/grok-skill-template) | [`grok-skill-template`](skills/grok-skill-template/SKILL.md) |
+| [Grok Skills Install](https://grokbotskills.vercel.app/skills/grok-skills-install) | [`grok-skills-install`](skills/grok-skills-install/SKILL.md) |
 | [Habit Builder](https://grokbotskills.vercel.app/skills/habit-builder) | [`habit-builder`](skills/habit-builder/SKILL.md) |
 | [Idea Refine](https://grokbotskills.vercel.app/skills/idea-refine) | [`idea-refine`](skills/idea-refine/SKILL.md) |
 | [Incident Postmortem](https://grokbotskills.vercel.app/skills/incident-postmortem) | [`incident-postmortem`](skills/incident-postmortem/SKILL.md) |
@@ -197,8 +212,10 @@ Not affiliated with xAI.
 | [Language Tutor](https://grokbotskills.vercel.app/skills/language-tutor) | [`language-tutor`](skills/language-tutor/SKILL.md) |
 | [Lekker Review](https://grokbotskills.vercel.app/skills/lekker-review) | [`lekker-review`](skills/lekker-review/SKILL.md) |
 | [Macos Menubar App](https://grokbotskills.vercel.app/skills/macos-menubar-app) | [`macos-menubar-app`](skills/macos-menubar-app/SKILL.md) |
+| [Market Research Oracle](https://grokbotskills.vercel.app/skills/market-research-oracle) | [`market-research-oracle`](skills/market-research-oracle/SKILL.md) |
 | [Marketing Aeo](https://grokbotskills.vercel.app/skills/marketing-aeo) | [`marketing-aeo`](skills/marketing-aeo/SKILL.md) |
 | [Marketing Ai Crawler](https://grokbotskills.vercel.app/skills/marketing-ai-crawler) | [`marketing-ai-crawler`](skills/marketing-ai-crawler/SKILL.md) |
+| [Marketing Automation Agent](https://grokbotskills.vercel.app/skills/marketing-automation-agent) | [`marketing-automation-agent`](skills/marketing-automation-agent/SKILL.md) |
 | [Marketing Keyword Data](https://grokbotskills.vercel.app/skills/marketing-keyword-data) | [`marketing-keyword-data`](skills/marketing-keyword-data/SKILL.md) |
 | [Marketing Reddit](https://grokbotskills.vercel.app/skills/marketing-reddit) | [`marketing-reddit`](skills/marketing-reddit/SKILL.md) |
 | [Marketing Serp](https://grokbotskills.vercel.app/skills/marketing-serp) | [`marketing-serp`](skills/marketing-serp/SKILL.md) |
@@ -228,6 +245,7 @@ Not affiliated with xAI.
 | [Performance Optimization](https://grokbotskills.vercel.app/skills/performance-optimization) | [`performance-optimization`](skills/performance-optimization/SKILL.md) |
 | [Performance Profiler](https://grokbotskills.vercel.app/skills/performance-profiler) | [`performance-profiler`](skills/performance-profiler/SKILL.md) |
 | [Personal Budget Planner](https://grokbotskills.vercel.app/skills/personal-budget-planner) | [`personal-budget-planner`](skills/personal-budget-planner/SKILL.md) |
+| [Physics Simulation Engine](https://grokbotskills.vercel.app/skills/physics-simulation-engine) | [`physics-simulation-engine`](skills/physics-simulation-engine/SKILL.md) |
 | [Planning And Task Breakdown](https://grokbotskills.vercel.app/skills/planning-and-task-breakdown) | [`planning-and-task-breakdown`](skills/planning-and-task-breakdown/SKILL.md) |
 | [Pptx](https://grokbotskills.vercel.app/skills/pptx) | [`pptx`](skills/pptx/SKILL.md) |
 | [Pr Description Writer](https://grokbotskills.vercel.app/skills/pr-description-writer) | [`pr-description-writer`](skills/pr-description-writer/SKILL.md) |
@@ -236,6 +254,8 @@ Not affiliated with xAI.
 | [Pr To Green](https://grokbotskills.vercel.app/skills/pr-to-green) | [`pr-to-green`](skills/pr-to-green/SKILL.md) |
 | [Presentation Builder](https://grokbotskills.vercel.app/skills/presentation-builder) | [`presentation-builder`](skills/presentation-builder/SKILL.md) |
 | [Product Builder](https://grokbotskills.vercel.app/skills/product-builder) | [`product-builder`](skills/product-builder/SKILL.md) |
+| [Productivity Automation Agent](https://grokbotskills.vercel.app/skills/productivity-automation-agent) | [`productivity-automation-agent`](skills/productivity-automation-agent/SKILL.md) |
+| [Project Grok Md](https://grokbotskills.vercel.app/skills/project-grok-md) | [`project-grok-md`](skills/project-grok-md/SKILL.md) |
 | [Project Planner](https://grokbotskills.vercel.app/skills/project-planner) | [`project-planner`](skills/project-planner/SKILL.md) |
 | [Prompt Engineer](https://grokbotskills.vercel.app/skills/prompt-engineer) | [`prompt-engineer`](skills/prompt-engineer/SKILL.md) |
 | [Promptctl](https://grokbotskills.vercel.app/skills/promptctl) | [`promptctl`](skills/promptctl/SKILL.md) |
@@ -259,6 +279,7 @@ Not affiliated with xAI.
 | [Secure Password Policy](https://grokbotskills.vercel.app/skills/secure-password-policy) | [`secure-password-policy`](skills/secure-password-policy/SKILL.md) |
 | [Security And Hardening](https://grokbotskills.vercel.app/skills/security-and-hardening) | [`security-and-hardening`](skills/security-and-hardening/SKILL.md) |
 | [Security Auditor](https://grokbotskills.vercel.app/skills/security-auditor) | [`security-auditor`](skills/security-auditor/SKILL.md) |
+| [Security Compliance Agent](https://grokbotskills.vercel.app/skills/security-compliance-agent) | [`security-compliance-agent`](skills/security-compliance-agent/SKILL.md) |
 | [Self Critique](https://grokbotskills.vercel.app/skills/self-critique) | [`self-critique`](skills/self-critique/SKILL.md) |
 | [Semantic Release Beta](https://grokbotskills.vercel.app/skills/semantic-release-beta) | [`semantic-release-beta`](skills/semantic-release-beta/SKILL.md) |
 | [Shared Knowledge Artifact](https://grokbotskills.vercel.app/skills/shared-knowledge-artifact) | [`shared-knowledge-artifact`](skills/shared-knowledge-artifact/SKILL.md) |
@@ -273,13 +294,16 @@ Not affiliated with xAI.
 | [Starter Rules](https://grokbotskills.vercel.app/skills/starter-rules) | [`starter-rules`](skills/starter-rules/SKILL.md) |
 | [Store Listing Copy](https://grokbotskills.vercel.app/skills/store-listing-copy) | [`store-listing-copy`](skills/store-listing-copy/SKILL.md) |
 | [Study Plan Builder](https://grokbotskills.vercel.app/skills/study-plan-builder) | [`study-plan-builder`](skills/study-plan-builder/SKILL.md) |
+| [Supabase Auth](https://grokbotskills.vercel.app/skills/supabase-auth) | [`supabase-auth`](skills/supabase-auth/SKILL.md) |
 | [Swot Analyzer](https://grokbotskills.vercel.app/skills/swot-analyzer) | [`swot-analyzer`](skills/swot-analyzer/SKILL.md) |
 | [System Disk Cleanup](https://grokbotskills.vercel.app/skills/system-disk-cleanup) | [`system-disk-cleanup`](skills/system-disk-cleanup/SKILL.md) |
 | [System Memory Cleanup](https://grokbotskills.vercel.app/skills/system-memory-cleanup) | [`system-memory-cleanup`](skills/system-memory-cleanup/SKILL.md) |
+| [Tailwind Shadcn](https://grokbotskills.vercel.app/skills/tailwind-shadcn) | [`tailwind-shadcn`](skills/tailwind-shadcn/SKILL.md) |
 | [Technical Writer](https://grokbotskills.vercel.app/skills/technical-writer) | [`technical-writer`](skills/technical-writer/SKILL.md) |
 | [Template Skill](https://grokbotskills.vercel.app/skills/template-skill) | [`template-skill`](skills/template-skill/SKILL.md) |
 | [Terraform Module Author](https://grokbotskills.vercel.app/skills/terraform-module-author) | [`terraform-module-author`](skills/terraform-module-author/SKILL.md) |
 | [Test Driven Development](https://grokbotskills.vercel.app/skills/test-driven-development) | [`test-driven-development`](skills/test-driven-development/SKILL.md) |
+| [Testing Automation Agent](https://grokbotskills.vercel.app/skills/testing-automation-agent) | [`testing-automation-agent`](skills/testing-automation-agent/SKILL.md) |
 | [Theme Factory](https://grokbotskills.vercel.app/skills/theme-factory) | [`theme-factory`](skills/theme-factory/SKILL.md) |
 | [Threat Modeler](https://grokbotskills.vercel.app/skills/threat-modeler) | [`threat-modeler`](skills/threat-modeler/SKILL.md) |
 | [Trip Planner](https://grokbotskills.vercel.app/skills/trip-planner) | [`trip-planner`](skills/trip-planner/SKILL.md) |
@@ -291,6 +315,7 @@ Not affiliated with xAI.
 | [Viral Launch](https://grokbotskills.vercel.app/skills/viral-launch) | [`viral-launch`](skills/viral-launch/SKILL.md) |
 | [Vulnerability Triage](https://grokbotskills.vercel.app/skills/vulnerability-triage) | [`vulnerability-triage`](skills/vulnerability-triage/SKILL.md) |
 | [Web Artifacts Builder](https://grokbotskills.vercel.app/skills/web-artifacts-builder) | [`web-artifacts-builder`](skills/web-artifacts-builder/SKILL.md) |
+| [Web Performance Agent](https://grokbotskills.vercel.app/skills/web-performance-agent) | [`web-performance-agent`](skills/web-performance-agent/SKILL.md) |
 | [Webapp Testing](https://grokbotskills.vercel.app/skills/webapp-testing) | [`webapp-testing`](skills/webapp-testing/SKILL.md) |
 | [Website Analytics Bootstrap](https://grokbotskills.vercel.app/skills/website-analytics-bootstrap) | [`website-analytics-bootstrap`](skills/website-analytics-bootstrap/SKILL.md) |
 | [Wendy](https://grokbotskills.vercel.app/skills/wendy) | [`wendy`](skills/wendy/SKILL.md) |

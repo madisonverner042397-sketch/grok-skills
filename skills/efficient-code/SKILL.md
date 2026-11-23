@@ -556,4 +556,4 @@ As Grok would say: *"The most optimized code is the code that never runs at all.
 
 *Remember: Fast code is happy code. Happy code makes happy users. Happy users make happy developers. It's the circle of performance.* 🚀
 
-_Original author: Awesome Grok Skills (MIT, v1.0.0)._
+_Imported from [Awesome Grok Skills](https://github.com/LifeJiggy/Awesome-Grok-Skills) and adapted for this catalog (format and code fixes). Copyright (c) 2024 Awesome Grok Skills. MIT License._

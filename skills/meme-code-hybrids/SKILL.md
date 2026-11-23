@@ -303,4 +303,4 @@ const RegionalMemes = {
 
 *Remember: The best memes are the ones that make code more approachable without sacrificing functionality. Stay authentic, stay viral!* 🚀
 
-_Original author: Awesome Grok Skills (MIT, v1.0.0)._
+_Imported from [Awesome Grok Skills](https://github.com/LifeJiggy/Awesome-Grok-Skills) and adapted for this catalog (format and code fixes). Copyright (c) 2024 Awesome Grok Skills. MIT License._

@@ -1,6 +1,6 @@
 # grok-skills
 
-**195 `SKILL.md` playbooks for [Grok Bot](https://docs.x.ai/grok-bot/overview).** Browse them on the website, or install the whole catalog from this repo.
+**196 `SKILL.md` playbooks for [Grok Bot](https://docs.x.ai/grok-bot/overview).** Browse them on the website, or install the whole catalog from this repo.
 
 <p>
   <a href="https://grokbotskills.vercel.app"><strong>Website → grokbotskills.vercel.app</strong></a>
@@ -11,7 +11,7 @@
 </p>
 
 [![Website](https://img.shields.io/badge/website-grokbotskills.vercel.app-111111)](https://grokbotskills.vercel.app)
-[![Skills](https://img.shields.io/badge/skills-195-111111)](https://grokbotskills.vercel.app)
+[![Skills](https://img.shields.io/badge/skills-196-111111)](https://grokbotskills.vercel.app)
 [![License](https://img.shields.io/badge/license-MIT-111111)](LICENSE)
 
 We write the skills. Grok Bot is xAI's product. This catalog is not affiliated with xAI.
@@ -63,7 +63,7 @@ grok-skills/
     ├── code-reviewer/SKILL.md
     ├── dockerfile-pro/SKILL.md
     ├── pr-description-writer/SKILL.md
-    └── …195 skills
+    └── …196 skills
 ```
 
 This repo is skills only. No website source. The site is a separate catalog that points here.
@@ -98,7 +98,7 @@ Not affiliated with xAI.
 
 ## Catalog
 
-195 skills. Name links to the website. Folder links to the file in this repo.
+196 skills. Name links to the website. Folder links to the file in this repo.
 
 | Skill | Folder |
 | --- | --- |
@@ -168,6 +168,7 @@ Not affiliated with xAI.
 | [Error Handling Patterns](https://grokbotskills.vercel.app/skills/error-handling-patterns) | [`error-handling-patterns`](skills/error-handling-patterns/SKILL.md) |
 | [Event Planner](https://grokbotskills.vercel.app/skills/event-planner) | [`event-planner`](skills/event-planner/SKILL.md) |
 | [Fill Music Player](https://grokbotskills.vercel.app/skills/fill-music-player) | [`fill-music-player`](skills/fill-music-player/SKILL.md) |
+| [Firecrawl](https://grokbotskills.vercel.app/skills/firecrawl) | [`firecrawl`](skills/firecrawl/SKILL.md) |
 | [Flashcard Generator](https://grokbotskills.vercel.app/skills/flashcard-generator) | [`flashcard-generator`](skills/flashcard-generator/SKILL.md) |
 | [Frontend Design](https://grokbotskills.vercel.app/skills/frontend-design) | [`frontend-design`](skills/frontend-design/SKILL.md) |
 | [Frontend Ui Engineering](https://grokbotskills.vercel.app/skills/frontend-ui-engineering) | [`frontend-ui-engineering`](skills/frontend-ui-engineering/SKILL.md) |

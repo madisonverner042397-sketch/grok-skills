@@ -1,6 +1,6 @@
 # grok-skills
 
-**196 `SKILL.md` playbooks for [Grok Bot](https://docs.x.ai/grok-bot/overview).** Browse them on the website, or install the whole catalog from this repo.
+**198 `SKILL.md` playbooks for [Grok Bot](https://docs.x.ai/grok-bot/overview).** Browse them on the website, or install the whole catalog from this repo.
 
 <p>
   <a href="https://grokbotskills.vercel.app"><strong>Website → grokbotskills.vercel.app</strong></a>
@@ -11,7 +11,7 @@
 </p>
 
 [![Website](https://img.shields.io/badge/website-grokbotskills.vercel.app-111111)](https://grokbotskills.vercel.app)
-[![Skills](https://img.shields.io/badge/skills-196-111111)](https://grokbotskills.vercel.app)
+[![Skills](https://img.shields.io/badge/skills-198-111111)](https://grokbotskills.vercel.app)
 [![License](https://img.shields.io/badge/license-MIT-111111)](LICENSE)
 
 We write the skills. Grok Bot is xAI's product. This catalog is not affiliated with xAI.
@@ -63,7 +63,7 @@ grok-skills/
     ├── code-reviewer/SKILL.md
     ├── dockerfile-pro/SKILL.md
     ├── pr-description-writer/SKILL.md
-    └── …196 skills
+    └── …198 skills
 ```
 
 This repo is skills only. No website source. The site is a separate catalog that points here.
@@ -98,7 +98,7 @@ Not affiliated with xAI.
 
 ## Catalog
 
-196 skills. Name links to the website. Folder links to the file in this repo.
+198 skills. Name links to the website. Folder links to the file in this repo.
 
 | Skill | Folder |
 | --- | --- |
@@ -164,6 +164,7 @@ Not affiliated with xAI.
 | [Docx](https://grokbotskills.vercel.app/skills/docx) | [`docx`](skills/docx/SKILL.md) |
 | [Doubt Driven Development](https://grokbotskills.vercel.app/skills/doubt-driven-development) | [`doubt-driven-development`](skills/doubt-driven-development/SKILL.md) |
 | [Drafty Proof Canvas](https://grokbotskills.vercel.app/skills/drafty-proof-canvas) | [`drafty-proof-canvas`](skills/drafty-proof-canvas/SKILL.md) |
+| [Efficient Code](https://grokbotskills.vercel.app/skills/efficient-code) | [`efficient-code`](skills/efficient-code/SKILL.md) |
 | [Email Composer](https://grokbotskills.vercel.app/skills/email-composer) | [`email-composer`](skills/email-composer/SKILL.md) |
 | [Error Handling Patterns](https://grokbotskills.vercel.app/skills/error-handling-patterns) | [`error-handling-patterns`](skills/error-handling-patterns/SKILL.md) |
 | [Event Planner](https://grokbotskills.vercel.app/skills/event-planner) | [`event-planner`](skills/event-planner/SKILL.md) |
@@ -210,6 +211,7 @@ Not affiliated with xAI.
 | [Media Image Gen](https://grokbotskills.vercel.app/skills/media-image-gen) | [`media-image-gen`](skills/media-image-gen/SKILL.md) |
 | [Media Video Gen](https://grokbotskills.vercel.app/skills/media-video-gen) | [`media-video-gen`](skills/media-video-gen/SKILL.md) |
 | [Meeting Summarizer](https://grokbotskills.vercel.app/skills/meeting-summarizer) | [`meeting-summarizer`](skills/meeting-summarizer/SKILL.md) |
+| [Meme Code Hybrids](https://grokbotskills.vercel.app/skills/meme-code-hybrids) | [`meme-code-hybrids`](skills/meme-code-hybrids/SKILL.md) |
 | [Mermaid Diagram Builder](https://grokbotskills.vercel.app/skills/mermaid-diagram-builder) | [`mermaid-diagram-builder`](skills/mermaid-diagram-builder/SKILL.md) |
 | [Morning Routine](https://grokbotskills.vercel.app/skills/morning-routine) | [`morning-routine`](skills/morning-routine/SKILL.md) |
 | [Music To Plex](https://grokbotskills.vercel.app/skills/music-to-plex) | [`music-to-plex`](skills/music-to-plex/SKILL.md) |

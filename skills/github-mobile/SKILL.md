@@ -3,7 +3,7 @@ name: github-mobile
 description: Help someone install, sign in to, and use GitHub Mobile on Android or iOS, including multiple accounts, social login, GHE.com and GitHub Enterprise Server prerequisites, language settings, iOS Universal Links, and leaving the TestFlight preview. Use when the user asks how to do something in the GitHub Mobile app, can't sign in or get notifications on mobile, wants to add or switch accounts, or wants GitHub links to open in Safari instead of the app.
 license: CC-BY-4.0
 metadata:
-  source: GitHub Docs, "GitHub Mobile" (docs.github.com/en/get-started/using-github/github-mobile)
+  source: https://docs.github.com/en/get-started/using-github/github-mobile
   tags:
     - github
     - mobile
@@ -42,8 +42,8 @@ Answer questions about the GitHub Mobile app for Android and iOS. Give the exact
 - Edit files in pull requests
 - Search for, browse, and interact with users, repositories, and organizations
 - Get a push notification when someone mentions your username
-- Search code in a specific repository
-- Secure the account with two-factor authentication and approve sign-ins from unrecognized devices
+- Search code in a specific repository (not available on every deployment; may be missing on some GitHub Enterprise Server versions)
+- Secure the account with two-factor authentication and approve sign-ins from unrecognized devices (GitHub.com and GHE.com only, not GitHub Enterprise Server)
 - Ask GitHub Copilot Chat coding questions, and assign issues to Copilot
 
 Deeper docs (all under `https://docs.github.com/en/`):
@@ -51,8 +51,8 @@ Deeper docs (all under `https://docs.github.com/en/`):
 | Topic | Path |
 | --- | --- |
 | Mobile notifications | `subscriptions-and-notifications/get-started/configuring-notifications` |
-| Code search on mobile | `search-github/github-code-search/using-github-code-search` |
-| 2FA with GitHub Mobile | `authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication` |
+| Code search on mobile (where available) | `search-github/github-code-search/using-github-code-search` |
+| 2FA with GitHub Mobile (not GHES) | `authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication` |
 | Copilot Chat on mobile | `copilot/how-tos/copilot-on-github/chat-with-copilot/chat-in-mobile` |
 | Assign issues to Copilot | `copilot/how-tos/use-copilot-agents/cloud-agent/start-copilot-sessions` |
 
@@ -120,4 +120,4 @@ Feature requests and feedback go to GitHub Community: https://github.com/orgs/co
 
 ## Attribution
 
-Adapted from the GitHub Docs "GitHub Mobile" article, © GitHub, Inc., licensed under CC BY 4.0. Restructured as an agent playbook.
+Adapted from the GitHub Docs article ["GitHub Mobile"](https://docs.github.com/en/get-started/using-github/github-mobile), © GitHub, Inc., licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Restructured as an agent playbook; wording and structure changed.

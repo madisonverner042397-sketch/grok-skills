@@ -1,6 +1,6 @@
 # grok-skills
 
-**223 `SKILL.md` playbooks for [Grok Bot](https://docs.x.ai/grok-bot/overview).** Browse them on the website, or install the whole catalog from this repo.
+**224 `SKILL.md` playbooks for [Grok Bot](https://docs.x.ai/grok-bot/overview).** Browse them on the website, or install the whole catalog from this repo.
 
 <p>
   <a href="https://grokbotskills.vercel.app"><strong>Website → grokbotskills.vercel.app</strong></a>
@@ -11,7 +11,7 @@
 </p>
 
 [![Website](https://img.shields.io/badge/website-grokbotskills.vercel.app-111111)](https://grokbotskills.vercel.app)
-[![Skills](https://img.shields.io/badge/skills-223-111111)](https://grokbotskills.vercel.app)
+[![Skills](https://img.shields.io/badge/skills-224-111111)](https://grokbotskills.vercel.app)
 [![License](https://img.shields.io/badge/license-MIT-111111)](LICENSE)
 
 We write the skills. Grok Bot is xAI's product. This catalog is not affiliated with xAI.
@@ -63,7 +63,7 @@ grok-skills/
     ├── code-reviewer/SKILL.md
     ├── dockerfile-pro/SKILL.md
     ├── pr-description-writer/SKILL.md
-    └── …223 skills
+    └── …224 skills
 ```
 
 This repo is skills only. No website source. The site is a separate catalog that points here.
@@ -98,7 +98,7 @@ Not affiliated with xAI.
 
 ## Catalog
 
-223 skills. Name links to the website. Folder links to the file in this repo.
+224 skills. Name links to the website. Folder links to the file in this repo.
 
 | Skill | Folder |
 | --- | --- |
@@ -196,6 +196,7 @@ Not affiliated with xAI.
 | [Git Workflow](https://grokbotskills.vercel.app/skills/git-workflow) | [`git-workflow`](skills/git-workflow/SKILL.md) |
 | [Git Workflow And Versioning](https://grokbotskills.vercel.app/skills/git-workflow-and-versioning) | [`git-workflow-and-versioning`](skills/git-workflow-and-versioning/SKILL.md) |
 | [Github Actions Builder](https://grokbotskills.vercel.app/skills/github-actions-builder) | [`github-actions-builder`](skills/github-actions-builder/SKILL.md) |
+| [Github Mobile](https://grokbotskills.vercel.app/skills/github-mobile) | [`github-mobile`](skills/github-mobile/SKILL.md) |
 | [Go Dependency Direction](https://grokbotskills.vercel.app/skills/go-dependency-direction) | [`go-dependency-direction`](skills/go-dependency-direction/SKILL.md) |
 | [Grok Skill Template](https://grokbotskills.vercel.app/skills/grok-skill-template) | [`grok-skill-template`](skills/grok-skill-template/SKILL.md) |
 | [Grok Skills Install](https://grokbotskills.vercel.app/skills/grok-skills-install) | [`grok-skills-install`](skills/grok-skills-install/SKILL.md) |

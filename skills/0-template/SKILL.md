@@ -6,7 +6,7 @@ license: MIT
 
 # Skill Template
 
-> Copy this folder to a new top-level `<your-skill-name>/` folder in the repo root, rename it, and replace this content. Delete this blockquote when done.
+> Copy this folder to `skills/<your-skill-name>/`, rename it, and replace this content. Delete this blockquote when done.
 
 ## Overview
 
@@ -14,12 +14,26 @@ One short paragraph: what this skill does and the situations it applies to.
 
 **Keywords**: comma, separated, discovery, terms
 
+## Inputs and Access
+
+- What the user must provide (files, links, IDs, a goal).
+- Which apps, logins, or permissions the agent needs, and what to do if one is missing.
+
 ## Workflow
 
 1. First step — what to do.
 2. Second step.
 3. Third step.
-4. Verify the result.
+4. Verify the result: what to check before returning it, and what counts as a failure.
+
+## Output
+
+What to return and in what format (a draft, a table, a file, a link).
+
+## Approval Boundaries
+
+- Actions that need the user's OK first, such as sending, purchasing, deleting, publishing, or changing production systems.
+- What to do when a source is missing or stale: report it instead of guessing.
 
 ## Decision Framework
 

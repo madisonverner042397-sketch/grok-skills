@@ -2,6 +2,10 @@
 name: context-engineering
 description: Optimizes agent context setup. Use when starting a new session, when agent output quality degrades, when switching between tasks, or when you need to configure rules files and context for a project.
 license: MIT
+metadata:
+  author: Addy Osmani
+  source: https://github.com/addyosmani/agent-skills/tree/main/skills/context-engineering
+  copyright: Copyright (c) 2025 Addy Osmani
 ---
 
 # Context Engineering

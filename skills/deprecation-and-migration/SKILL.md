@@ -2,6 +2,10 @@
 name: deprecation-and-migration
 description: Manages deprecation and migration. Use when removing old systems, APIs, or features. Use when migrating users from one implementation to another. Use when deciding whether to maintain or sunset existing code.
 license: MIT
+metadata:
+  author: Addy Osmani
+  source: https://github.com/addyosmani/agent-skills/tree/main/skills/deprecation-and-migration
+  copyright: Copyright (c) 2025 Addy Osmani
 ---
 
 # Deprecation and Migration

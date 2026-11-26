@@ -2,6 +2,10 @@
 name: documentation-and-adrs
 description: Records decisions and documentation. Use when making architectural decisions, changing public APIs, shipping features, or when you need to record context that future engineers and agents will need to understand the codebase.
 license: MIT
+metadata:
+  author: Addy Osmani
+  source: https://github.com/addyosmani/agent-skills/tree/main/skills/documentation-and-adrs
+  copyright: Copyright (c) 2025 Addy Osmani
 ---
 
 # Documentation and ADRs

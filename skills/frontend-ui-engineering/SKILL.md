@@ -2,6 +2,10 @@
 name: frontend-ui-engineering
 description: Builds production-quality, accessible, responsive user-facing UIs. Use when building or modifying interfaces and pages, creating components, implementing layouts, meeting WCAG accessibility requirements, managing state, or when the output needs to look and feel production-quality rather than AI-generated.
 license: MIT
+metadata:
+  author: Addy Osmani
+  source: https://github.com/addyosmani/agent-skills/tree/main/skills/frontend-ui-engineering
+  copyright: Copyright (c) 2025 Addy Osmani
 ---
 
 # Frontend UI Engineering

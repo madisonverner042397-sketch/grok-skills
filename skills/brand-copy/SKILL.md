@@ -1,7 +1,7 @@
 ---
 name: brand-copy
 description: "Write and review clear house-style product and marketing copy. Use for UI strings, buttons, labels, errors, onboarding, release notes, App Store copy, emails, or copy rewrites."
-license: MIT
+license: CC-BY-NC-4.0
 metadata:
   source: https://styleguide.mailchimp.com/
   attribution: Adapted from the Mailchimp Content Style Guide by Mailchimp, licensed CC BY-NC 4.0.

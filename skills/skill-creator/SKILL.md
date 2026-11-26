@@ -1,7 +1,11 @@
 ---
 name: skill-creator
 description: Create new skills, modify and improve existing skills, and measure skill performance. Use when users want to create a skill from scratch, edit, or optimize an existing skill, run evals to test a skill, benchmark skill performance with variance analysis, or optimize a skill's description for better triggering accuracy.
-license: MIT
+license: Apache-2.0
+metadata:
+  author: Anthropic
+  source: https://github.com/anthropics/skills/tree/main/skills/skill-creator
+  license-file: LICENSE.txt
 ---
 
 # Skill Creator

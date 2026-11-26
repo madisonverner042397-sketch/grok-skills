@@ -2,6 +2,10 @@
 name: test-driven-development
 description: Drives development with tests. Use when implementing any logic, fixing any bug, or changing any behavior. Use when you need to prove that code works, when a bug report arrives, or when you're about to modify existing functionality.
 license: MIT
+metadata:
+  author: Addy Osmani
+  source: https://github.com/addyosmani/agent-skills/tree/main/skills/test-driven-development
+  copyright: Copyright (c) 2025 Addy Osmani
 ---
 
 # Test-Driven Development

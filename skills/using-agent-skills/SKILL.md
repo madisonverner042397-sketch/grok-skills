@@ -2,6 +2,10 @@
 name: using-agent-skills
 description: Discovers and invokes agent skills. Use when starting a session or when you need to discover which skill applies to the current task. This is the meta-skill that governs how all other skills are discovered and invoked.
 license: MIT
+metadata:
+  author: Addy Osmani
+  source: https://github.com/addyosmani/agent-skills/tree/main/skills/using-agent-skills
+  copyright: Copyright (c) 2025 Addy Osmani
 ---
 
 # Using Agent Skills

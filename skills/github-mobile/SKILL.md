@@ -42,19 +42,19 @@ Answer questions about the GitHub Mobile app for Android and iOS. Give the exact
 - Edit files in pull requests
 - Search for, browse, and interact with users, repositories, and organizations
 - Get a push notification when someone mentions your username
-- Search code in a specific repository (not available on every deployment; may be missing on some GitHub Enterprise Server versions)
-- Secure the account with two-factor authentication and approve sign-ins from unrecognized devices (GitHub.com and GHE.com only, not GitHub Enterprise Server)
-- Ask GitHub Copilot Chat coding questions, and assign issues to Copilot
+- Search code in a specific repository (GitHub.com and GHE.com only; not available on GitHub Enterprise Server at any version)
+- Secure the account with two-factor authentication and approve sign-ins from unrecognized devices (personal GitHub.com accounts only; not GitHub Enterprise Server, and not managed user accounts on GHE.com or other Enterprise Managed Users enterprises, whose MFA is set up at the identity provider)
+- Ask GitHub Copilot Chat coding questions, and assign issues to Copilot (GitHub.com and GHE.com only; not GitHub Enterprise Server)
 
 Deeper docs (all under `https://docs.github.com/en/`):
 
 | Topic | Path |
 | --- | --- |
 | Mobile notifications | `subscriptions-and-notifications/get-started/configuring-notifications` |
-| Code search on mobile (where available) | `search-github/github-code-search/using-github-code-search` |
-| 2FA with GitHub Mobile (not GHES) | `authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication` |
-| Copilot Chat on mobile | `copilot/how-tos/copilot-on-github/chat-with-copilot/chat-in-mobile` |
-| Assign issues to Copilot | `copilot/how-tos/use-copilot-agents/cloud-agent/start-copilot-sessions` |
+| Code search on mobile (not GHES) | `search-github/github-code-search/using-github-code-search` |
+| 2FA with GitHub Mobile (personal GitHub.com accounts) | `authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication` |
+| Copilot Chat on mobile (not GHES) | `copilot/how-tos/copilot-on-github/chat-with-copilot/chat-in-mobile` |
+| Assign issues to Copilot (not GHES) | `copilot/how-tos/use-copilot-agents/cloud-agent/start-copilot-sessions` |
 
 ## Install
 
@@ -117,6 +117,8 @@ Feature requests and feedback go to GitHub Community: https://github.com/orgs/co
 - Don't invent menu paths. If the UI the user describes doesn't match these steps, say the app may have changed and link the official docs.
 - Never ask for passwords, 2FA codes, or recovery codes.
 - For enterprise policy problems (mobile disabled, VPN-only access), the fix belongs to the enterprise owner. Tell the user what to ask their admin for.
+- If a managed user account (Enterprise Managed Users, including GHE.com) asks about 2FA or MFA, send them to their identity-provider administrator; they can't set it up in GitHub Mobile.
+- Don't suggest upgrading GitHub Enterprise Server to get code search or Copilot on mobile; those features are cloud-only.
 
 ## Attribution
 

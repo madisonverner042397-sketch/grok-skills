@@ -25,6 +25,11 @@ Answer questions about the GitHub Mobile app for Android and iOS. Give the exact
 - "How do I leave the GitHub iOS beta?"
 - The user wants to know what they can and can't do from the mobile app
 
+## Inputs and Access
+
+- From the user: the platform (Android or iOS), the account type (GitHub.com, GHE.com, or GitHub Enterprise Server), and, for sign-in or feature problems, the app version (in the app's **Settings**) and, for Enterprise Server, the server version if they know it.
+- No logins, app access, or permissions are needed: this playbook only gives instructions. If a detail is missing and changes the answer, ask for it; otherwise answer for the common case and say which case you assumed.
+
 ## Workflow
 
 1. **Identify the platform and account type.** Ask, or infer from context:
@@ -34,6 +39,14 @@ Answer questions about the GitHub Mobile app for Android and iOS. Give the exact
 3. **Give step-by-step instructions** using the exact UI labels in bold (for example, **Profile**, **Manage Accounts**).
 4. **State limits plainly.** If a feature isn't on mobile, or depends on the enterprise, say so instead of guessing at a workaround.
 5. **Link the matching official docs page** when the topic goes deeper (notifications, 2FA, code search, Copilot).
+
+## Output
+
+Return a short answer in this order:
+1. One line saying whether the thing they want is possible on their platform and account type.
+2. Numbered taps, with UI labels in bold, or the prerequisite they're missing.
+3. What to ask their admin for, if the blocker is an enterprise setting.
+4. A link to the matching GitHub Docs page.
 
 ## What the App Can Do
 
@@ -112,11 +125,13 @@ On iOS, tapping a GitHub link opens it in the app instead of Safari by default.
 
 Feature requests and feedback go to GitHub Community: https://github.com/orgs/community/discussions/categories/mobile
 
-## Guardrails
+## Approval Boundaries
 
+- This playbook takes no actions on the user's behalf. Don't change account, security, or enterprise settings for them; give the steps and let them do it.
 - Don't invent menu paths. If the UI the user describes doesn't match these steps, say the app may have changed and link the official docs.
 - Never ask for passwords, 2FA codes, or recovery codes.
 - For enterprise policy problems (mobile disabled, VPN-only access), the fix belongs to the enterprise owner. Tell the user what to ask their admin for.
+- If these steps don't match the official docs, or a version requirement may be out of date, say so and link the docs instead of guessing.
 - If a managed user account (Enterprise Managed Users, including GHE.com) asks about 2FA or MFA, send them to their identity-provider administrator; they can't set it up in GitHub Mobile.
 - Don't suggest upgrading GitHub Enterprise Server to get code search or Copilot on mobile; those features are cloud-only.
 
